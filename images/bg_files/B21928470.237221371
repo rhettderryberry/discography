@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#" lang="en">
+
+
+
+
+
+
+<head>
+	<!-- Machine Name: W26 -->
+	<!-- View: /Views/Shared/Masterpages/_lp-pgrx-pecms.cshtml -->
+	<!-- Build: X7463;D4022 --> 	
+	<!-- Content Entry ID: blt53aafec5fea7b646 -->
+	<script type="text/javascript">
+	    var startTm = new Date().getTime();
+	</script> 	
+
+
+
+<link rel="dns-prefetch" href="https://service.maxymiser.net" />
+<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+<link rel="dns-prefetch" href="http://1384245.fls.doubleclick.net/" />
+<link rel="dns-prefetch" href="http://stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="http://ads.bluelithium.com" />
+<link rel="dns-prefetch" href="http://r.turn.com" />
+<link rel="dns-prefetch" href="http://s.ytimg.com" />
+<link rel="dns-prefetch preconnect" href="https://e.monetate.net" />
+<link rel="dns-prefetch preconnect" href="https://images.contentstack.io" />
+
+
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+	
+
+
+
+<title>Make All Your Insurance Easy | Progressive</title>
+
+<link rel="canonical" href="/lp/auto-compare/" />
+
+<meta name="description" content="Get the coverage you need, for the price you want. Start a car insurance quote today with the details you know offhand." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Make All Your Insurance Easy" />
+<meta property="og:url" content="https://www.progressive.com/lp/auto-compare/" />
+<meta property="og:description" content="Get the coverage you need, for the price you want. Start a car insurance quote today with the details you know offhand." />
+<meta property="og:image" content="https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt72c5ebc95e884f8c/5ca763a5082f61c34628d081/share-opengraph-1200.png" />
+<meta property="og:image:alt" content="Progressive" />
+<meta name="twitter:title" content="Make All Your Insurance Easy" />
+<meta name="twitter:description" content="Get the coverage you need, for the price you want. Start a car insurance quote today with the details you know offhand." />
+<meta name="twitter:site" content="Progressive" />
+<meta name="twitter:creator" content="@Progressive" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltc5bb2b1a8cf2ae8c/5ca763a9b044c5993eb8dc29/share-twitter-1200.png" />
+<meta name="twitter:image:alt" content="Progressive" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" type="image/ico" href="/favicon.ico" />
+
+
+
+	
+<style type="text/css">
+	/* Icomoon (Icons)
+	/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+	/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+	@font-face {
+		font-family: 'Icons';
+		src:    url('https://www.progressive.com/content/fonts/icons/icomoon.eot');
+		src:    url('https://www.progressive.com/content/fonts/icons/icomoon.eot#iefix') format('embedded-opentype'),
+				url('https://www.progressive.com/content/fonts/icons/icomoon.ttf') format('truetype'),
+				url('https://www.progressive.com/content/fonts/icons/icomoon.woff') format('woff'),
+				url('https://www.progressive.com/content/fonts/icons/icomoon.svg?#icomoon') format('svg');
+	}
+</style>
+
+	
+	<link href="https://www.progressive.com/Content/css/DomainProgressive/lp/themes/lp-pgrx-pecms.min.css" rel="stylesheet" type="text/css" />	
+
+
+
+	
+<script type="text/javascript">
+  var machineNumber = "W26"
+  var dfProgCom = "https://www.progressive.com"
+  var dfContent = "https://www.progressive.com";
+  var dfProgCommercial = "https://www.progressiveCommercial.com";
+  var dfProgAgent = "https://www.progressive.com/agent";
+  var dfUBIT = "https://www.progressive.com/snapshot/tdx"
+  var progressive = {
+      device: "Desktop",
+      controller: "lp",
+      action: "auto-compare"
+      }
+  var progLogin = "https://account.progressive.com/access/login/";
+  var progPayBill = "https://account.progressive.com/access/ez-payment/policy-info";
+
+
+  try {
+  	var visitorID = 'ID=4c74370cb6284c519ad1706cf934db95';
+  	visitorID = visitorID.split('=')[1];
+  	if (visitorID === undefined) {
+  		visitorID = '';
+  	}
+  } catch (err) {}
+
+  var epm = {};
+  epm.CountryCode = "US";
+  epm.PostalCode = "94566";
+  epm.StateCode = "CA";
+  epm.Time = "1725";
+  epm.Day = "Sat";
+  epm.Date = "01/11/2020";
+  epm.Source = "www.marketplace.org";
+  epm.Keyword = "";
+  epm.VisitCount = "1";
+  epm.DaysSinceLastVisit = "0";
+  epm.Device = "Desktop";
+  epm.DeviceType = "Google Chrome";
+  epm.OSType = "Desktop 0";
+  epm.BrowserType = "Chrome Desktop 79.0";
+  epm.Code = "9903604868";
+  epm.QueryString = "?&code=9903604868&dclid=3617427752-1384245-21928470-237221371-459660604-107869305";
+  epm.PersonalizationEvent = "";
+  epm.IsOverridden = "False";
+  
+  epm.UserSegment = "";
+  epm.encryptionType = "TLSv1.2";
+</script>
+
+
+
+
+
+	<script type="text/javascript" src="https://www.progressive.com/js/CDN/jquery/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="https://www.progressive.com/js/cdn/misc/modernizr-1.7.min.js"></script>
+	<script type="text/javascript" src="https://www.progressive.com/js/cdn/jquery/jquery.validate-1.17.0.min.js"></script>
+	<script type="text/javascript" src="https://www.progressive.com/js/coreQuote.bundle"></script>
+	<script>
+		// Picture element HTML5 shiv
+		document.createElement("picture");
+	</script>
+	<script src="https://www.progressive.com/js/cdn/misc/picturefill-3.0.2.min.js" async></script>
+
+
+
+
+	
+
+<script type="text/javascript">
+	getDomainForGA = function () {
+		try {
+			var domainName = "";
+			var url = window.location.hostname;
+			var urlparts = url.split('.');
+			var i = urlparts.length;
+			if (i >= 2)
+				domainName =  "." + urlparts[i - 2] + "." + urlparts[i - 1];
+			else
+				domainName = ".progressive.com";
+			return domainName;
+		}
+		catch (err) { };
+	};
+
+	var _gaObj = _gaObj || {};
+	var _gaq = _gaq || [];
+	var epm = epm || [];
+	var dataLayer = [{
+		'domain': getDomainForGA(),
+		'siteServerSessionID': '4c74370cb6284c519ad1706cf934db95',
+		'partnerCode': epm.Code || '',
+		'device': epm.Device || '',
+		'deviceType': epm.DeviceType || '',
+		'personalizationEvent': epm.PersonalizationEvent || '',
+		'queryString': epm.QueryString || '',
+		'referringURL': epm.Source || '',
+		'gclid': '',
+	    'pilotVersion' : 'other',
+		'encryptionType': 'TLSv1.2',
+	    'stateCode': 'CA',
+        'deviceToken': ''
+	}];
+
+    var fallbackTimeoutLookup = 2000
+</script>
+
+
+
+
+<!-- Splunk Tracking -->
+<script>
+	var splunkApiUrl = 'https://rtds.progressive.com/splunkservices/v1/collectors/logs';
+	var splunkApiKey = 'zTk9Eis3cEQ0uQGrRZg3UVwieie';
+</script>
+<!-- Splunk Tracking -->
+	
+
+<script type="text/javascript">
+    window["adrum-disable"] = false;
+    window["adrum-app-key"] = "AD-AAB-AAC-GWR";
+    window["adrum-start-time"] = new Date().getTime();
+    window["adrum-config"] = {
+        xhr: {
+            exclude: {
+                urls: [{
+                    pattern: "arterySignalR",
+                    type: "regex"
+                }, {
+                    pattern: "^http.*?:\/\/(.(?!progressive))*[\/\?].*$",
+                    type: "regex"
+                }, {
+                    pattern: "^http.*?:\/\/(.(?!progressivecommericial))*[\/\?].*$",
+                    type: "regex"
+                }, {
+                    pattern: "^http.*?:\/\/(.(?!driveinsurance))*[\/\?].*$",
+                    type: "regex"
+                }]
+            }
+        }
+    };
+</script>
+<script type="text/javascript" src='/js/CDN/appdynamics/adrum-4.2.1.0.js'></script>
+<script type="text/javascript">
+    if (!(typeof ADRUM === "undefined")) {
+        ADRUM.command("setMaxBeaconLength", 2000);
+        var mobileInd = "N";
+
+        if ('false' == 'true') {
+            mobileInd = "Y";
+        }
+
+        ADRUM.command("addUserData", "ApplicationSubLevelName", "PGRX");
+        ADRUM.command("addUserData", "WebDomainName", location.host);
+        ADRUM.command("addUserData", "CurrentPageName", location.pathname);
+        ADRUM.command("addUserData", "URLQueryStringText", window.location.search);
+        ADRUM.command("addUserData", "URLReferrerText", document.referrer);
+        ADRUM.command("addUserData", "DestinationComputerSystemName", "W26");
+        ADRUM.command("addUserData", "UserAgentStringText", navigator.userAgent);
+        ADRUM.command("addUserData", "TealeafId", "");
+        ADRUM.command("addUserData", "SiteServerSessionId", "4c74370cb6284c519ad1706cf934db95");
+        ADRUM.command("addUserData", "MobileIndicator", mobileInd);
+
+    }
+</script>	<script type="text/javascript" src="https://www.progressive.com/js/core/utils.min.js"></script>
+
+</head>
+
+
+
+
+
+
+
+<body class='disable-focus desktop' data-browser="Chrome Desktop 79.0">
+
+	
+	
+	<!-- Google Tag Manager -->
+	<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZQ6H4&domain=.progressive.com" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+	<script>
+		var gtmId = 'GTM-MZQ6H4';
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true; j.src =	'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', gtmId);
+	</script>
+	<!-- End Google Tag Manager -->
+<!-- True -->
+	
+	<div class="overflow">
+		<div id="site">
+			<div id="main" class="default">
+				
+
+
+<script type="text/javascript">
+	$(function () {
+		$(".strip.message .close, .strip.message a").on("click", function () {
+			var a = new Date();
+			a = new Date(a.getTime() + 604800000); // 1 week
+			document.cookie = "showbanner=false; path=/; expires='" + a.toGMTString() + ';';
+		});
+	});
+</script>
+
+
+				
+				
+
+
+<div id="header">
+	<img src="https://www.progressive.com/content/images/domainprogressive/logo/logo-progressive-pecms.svg" alt="Progressive Insurance Logo" id="logo" />
+			<a href="tel:866-408-3428" class="phone" >
+				
+				<span class="icon" aria-hidden="true">&#xe118;</span>
+				<span class="text">866-408-3428</span>
+			</a>
+
+</div>
+				
+				
+
+	<script>
+	if ('objectFit' in document.documentElement.style === false) {
+	  document.addEventListener('DOMContentLoaded', function () {
+		Array.prototype.forEach.call(document.querySelectorAll('img[data-object-fit]'), function (image) {
+		  (image.runtimeStyle || image.style).background = "url(\"".concat(image.src, "\") no-repeat 50%/").concat(image.currentStyle ? image.currentStyle['object-fit'] : image.getAttribute('data-object-fit'));
+		  image.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='".concat(image.width, "' height='").concat(image.height, "'%3E%3C/svg%3E");
+		});
+	  });
+	}
+	</script>
+
+
+
+
+
+
+<div id="mma" class="dots" data-personalization-id="quote_starts-Default" >
+	<div class="mma-container">
+		
+
+
+
+
+
+
+
+
+	
+
+
+
+<div class="cta clearfix">
+	<div class="copy" data-product="AU">
+		 <img src="" alt="" class="affiliate-logo" />
+		<h1>Find the best savings easily and fast</h1>
+        <p>Compare car insurance rates side by side with our competitors so it's easy to find the lowest option.</p>
+
+
+	            
+ 
+<form id="QuoteStartForm" action="/Quote/StartQuote" class="quoteStartForm" data-page-position="">
+   <input type="hidden" id="stopError" name="hiddenErrorElement" class="error hiddenError" />
+        <div class="watermark zipCode">
+             <label for="zipCode">Zip Code</label>
+             <input id="zipCode" name="ZipCode" size="5" type="tel" maxlength="5" value="" class="required" />
+        </div>
+    
+        <div class="product dropdown dropdownlist "> 
+
+            <!--
+                This if statment is used to display the list when the ProductDisplayListType value is List or ALL              
+                -->
+<div class='dropdown-list'><div class =' list4 bundleIcons clearfix'><p class='title'>Bundle and save 5%<sup>*</sup> or more on auto!</p><ul><li class='' ><a href='#'data-value='AU+HO'>Auto + Home</a></li><li class='' ><a href='#'data-value='AU+RT'>Auto + Renters</a></li><li class='' ><a href='#'data-value='AU+CO'>Auto + Condo</a></li></ul></div><div class =' list1 flair clearfix'><p class='title'>Or, quote another product</p><ul><li class=' selected' ><a href='#'data-value='AU'>Auto</a></li><li class='' ><a href='#'data-value='BT'>Boat/PWC</a></li><li class='' ><a href='#'data-value='BI'>Business</a></li><li class='' ><a href='#'data-value='TC'>Car Shopping</a></li><li class='' ><a href='#'data-value='CC'>Classic Car</a></li><li class='' ><a href='#'data-value='CA'>Commercial</a></li><li class='' ><a href='#'data-value='C'>Condo</a></li><li class='' ><a href='#'data-value='ED'>Electronic Device</a></li><li class='' ><a href='#'data-value='F'>Flood</a></li><li class='' ><a href='#'data-value='MC~G'>Golf Cart</a></li><li class='' ><a href='#'data-value='HE'>Health</a></li><li class='' ><a href='#'data-value='H'>Homeowners</a></li><li class='' ><a href='#'data-value='HF'>Home Finance</a></li><li class='' ><a href='#'data-value='HR'>Home Refinance</a></li><li class='' ><a href='#'data-value='ID'>ID Theft</a></li><li class='' ><a href='#'data-value='L'>Life</a></li><li class='' ><a href='#'data-value='MX'>Mexico Auto</a></li><li class='' ><a href='#'data-value='MH'>Mobile Home</a></li><li class='' ><a href='#'data-value='MC'>Motorcycle/ATV</a></li><li class='' ><a href='#'data-value='P'>Pet</a></li><li class='' ><a href='#'data-value='RV'>RV/Trailer</a></li><li class='' ><a href='#'data-value='R'>Renters</a></li><li class='' ><a href='#'data-value='SW'>Segway</a></li><li class='' ><a href='#'data-value='SM'>Snowmobile</a></li><li class='' ><a href='#'data-value='TR'>Travel</a></li><li class='' ><a href='#'data-value='WE'>Wedding & Event</a></li></ul></div></div>           
+            <!--
+                This if statment is used to display the dropdown when the ProductDisplayListType value is Select or ALL      
+                In the else statment we create the dropdown but hide the dropwdown control. This happens when the 
+                productDisplayListType value is LIST.        
+                -->
+                <label class="sr-only" for="product">Select a product</label>
+                <select id="product" name="Product" class="required">
+                    <option value ='AU+HO'  class='' >Auto + Home</option><option value ='AU+RT'  class='' >Auto + Renters</option><option value ='AU+CO'  class='' >Auto + Condo</option><option value ='AU' selected='selected' class='' >Auto</option><option value ='BT'  class='' >Boat/PWC</option><option value ='BI'  class='' >Business</option><option value ='TC'  class='' >Car Shopping</option><option value ='CC'  class='' >Classic Car</option><option value ='CA'  class='' >Commercial</option><option value ='C'  class='' >Condo</option><option value ='ED'  class='' >Electronic Device</option><option value ='F'  class='' >Flood</option><option value ='MC~G'  class='' >Golf Cart</option><option value ='HE'  class='' >Health</option><option value ='H'  class='' >Homeowners</option><option value ='HF'  class='' >Home Finance</option><option value ='HR'  class='' >Home Refinance</option><option value ='ID'  class='' >ID Theft</option><option value ='L'  class='' >Life</option><option value ='MX'  class='' >Mexico Auto</option><option value ='MH'  class='' >Mobile Home</option><option value ='MC'  class='' >Motorcycle/ATV</option><option value ='P'  class='' >Pet</option><option value ='RV'  class='' >RV/Trailer</option><option value ='R'  class='' >Renters</option><option value ='SW'  class='' >Segway</option><option value ='SM'  class='' >Snowmobile</option><option value ='TR'  class='' >Travel</option><option value ='WE'  class='' >Wedding & Event</option>
+                </select>
+            <a href="#productmodal" aria-haspopup="dialog" class="display">
+                <div class="placeholder">
+                    <span class="sr-only">Select a product </span>
+                    <span class="sr-only">Currently selected product </span>
+                </div>
+                <div class="arrow-background" aria-hidden="true"></div>
+            </a>
+        </div>
+        <div class='bundle clearfix'><p>Save 5% or more on auto—just add property<sup>*</sup></p><ul class='clearfix'><li data-action='AU+HO'><button type='button' aria-pressed='false' aria-label='Add Homeowners'><span class='smallHide'>+ </span>Home</button></li><li data-action='AU+RT'><button type='button' aria-pressed='false' aria-label='Add Renters'><span class='smallHide'>+ </span>Renters</button></li><li data-action='AU+CO'><button type='button' aria-pressed='false' aria-label='Add Condo'><span class='smallHide'>+ </span>Condo</button></li></ul></div>
+    <div class="button">
+        <input type="submit"  id = "qsButton" name="qsButton" value="Get a quote" />
+    </div>
+        
+    <input type="hidden" id="affiliateCode" name="AffiliateCode" value="" />
+    <input type="hidden" id="affiliateInfo" name="AffiliateInfo" value="" />
+    <input type="hidden" id="progStatus" name="ProgStatus" value="" />
+    <input type="hidden" id="quoteIndicator" name="QuoteIndicator" value="" />
+    <input type="hidden" id="phoneNumber" name="PhoneNumber" value="" />    
+    <input type="hidden" id="queryString" name="StrQueryString" value="code=9903604868&amp;dclid=3617427752-1384245-21928470-237221371-459660604-107869305" />        
+</form>
+
+	
+    </div>
+</div>
+
+
+
+	</div>
+	<figure class="mma-image">
+		<picture>
+			<source media="(max-width: 999px)" srcset="https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt9a0f85f30727c1a7/5d263b85477975124a44fdcc/mma_van_people_650.jpg 1x, https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt77e799ad980c4b5f/5d263b858d27ea11c3823841/mma_van_people_650@2x.jpg 1.5x">
+			<source media="(min-width: 1000px)" srcset="https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt1d03b32a3968c82e/5d263b8573f71c11c821a873/mma_van_people_916.jpg 1x, https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt4dca38f778f92b8e/5d263b85e802da1244b26b85/mma_van_people_916@2x.jpg 1.5x">
+			<img src="https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt4dca38f778f92b8e/5d263b85e802da1244b26b85/mma_van_people_916@2x.jpg" alt="Auto Compare Image" data-object-fit="cover" />
+		</picture>
+	</figure>
+</div>					<footer class="footer" data-module="footer" data-ignore-spacing="">
+						<div class="wrap">
+							<div class="grid">
+								<div class="copy grid-l12">
+									<ul class="subnav">
+										<li><a href="https://www.progressive.com/privacy/?&amp;code=9903604868&amp;dclid=3617427752-1384245-21928470-237221371-459660604-107869305" class="link">Privacy &amp; Security</a></li>
+										<li><a href="https://www.progressive.com/copyright/?&amp;code=9903604868&amp;dclid=3617427752-1384245-21928470-237221371-459660604-107869305" class="link">Terms of Use</a></li>
+										<li><a href="https://www.progressive.com/contact-support/?&amp;code=9903604868&amp;dclid=3617427752-1384245-21928470-237221371-459660604-107869305" class="link">Contact Us</a></li>
+									</ul>
+									<div class="copyright">
+
+
+
+<div class="disclosures">
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p><strong class="claim-text">The #1 Insurance Site</strong></p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>Copyright 1995 - 2019. Progressive Casualty Insurance Company. All Rights Reserved.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>We offer insurance by phone, online and through independent agents. <a href="/shop/car-insurance-rates-differ/">Prices vary based on how you buy</a>.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>National average annual car insurance savings by new customers surveyed who saved with Progressive in 2019.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-symbol">*</span><span class="disclosure-statement"><p>Discount varies and is not available in all states or situations.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>Average annual auto & home combined insurance savings of $1,029 by new customers in a national survey who saved with Progressive in 2018.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>Customer selected due dates are available only for auto insurance policies where the customer has elected to pay via EFT.</p></span>
+			</div>
+			<div class="disclosure-group">
+				<span class="disclosure-statement"><p>​Insurance carrier Website ranking by Dynatrace - Scorecards for Financial Services in 2019.</p></span>
+			</div>
+</div>
+
+										<div id="verisign">
+											<a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=WWW.PROGRESSIVE.COM&lang=en">
+												<img src="https://www.progressive.com/content/images/domainprogressive/logo/logo-norton@2x.png"
+													 alt="Norton Secured Logo" width="90" height="48" style="padding-right: 10px;" />
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</footer>
+
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+						
+						
+
+						<script language="JavaScript" src="https://www.progressive.com/content/js/domainprogressive/lp/lp-pgrx-rework.js"></script>
+
+						<script language="JavaScript" src="https://www.progressive.com/content/js/domainprogressive/lp/lp-gaEventTracking.min.js"></script>
+
+						
+
+						
+						
+						 
+<script type="text/javascript">                
+    trackServer = true ? true : false;
+
+    window.onload = function () {
+        try {
+            if (typeof(mmcore) == "undefined" || $.isEmptyObject(mmcore.GenInfo))
+            {
+                var _timeTracker = new progTimer.TrackTiming("PageLoadTime");
+                _timeTracker._startTime(startTm);
+                _timeTracker._endTime(new Date().getTime());
+                _timeTracker._track();                
+            }
+        }
+        catch (e) { }
+
+    };            
+</script>
+
+						
+
+    <!-- Begin Monetate ExpressTag Async v6.1. -->
+    <script type="text/javascript">
+                var monetateT = new Date().getTime();
+                (function () {
+                    var p = document.location.protocol;
+                    if (p == "http:" || p == "https:") {
+                        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://")
+                            + "e.monetate.net/js/2/a-513ece62/p/progressive.com/custom.js";
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+                    }
+                })();
+    </script>
+    <!-- End Monetate tag. -->
+
+<!-- Google Analytics/Splunk logging for Monetate experience  -->
+    <script type="text/javascript" id="monetate-exp-tag">
+        $(document).ready(function () {
+            window.monetateTime = "328";
+            window.monetateExperience = "Contentstack Pass-through-1137666=Experiment"; //"Experience1-999=variantlabel&Experience2-444=variantlabel&Experience3-555=variantlabel2"
+
+            typeof _gaObj != "undefined" && _gaObj instanceof Object && _gaObj.GATrackEvent("progCom", "Monetate", window.monetateExperience, window.monetateTime, true);
+        });
+    </script>
+
+
+
+						<div id="overlay"></div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+
+/* Table of Content
+==================================================
+  #Global Styles
+  #Site Styles  
+==================================================*/
+
+/* Global Styles
+--------------------------------------------
+--------------------------------------------*/
+
+body{background:teal}
+.bg1{background:url(../images/pic.jpg)}
+.display-2{font-family:'Courier Prime', monospace;font-size:3em}
+.dotted{border-width:6px;border-style:dashed}
+.info{font-family:'Courier Prime', monospace;font-size:1em;justify-content:center}
+.albums{background-color:#659dbd}
+.btn{text-align:center;letter-spacing:4px;
+font-family:'Courier Prime',monospace;font-size:1.5em;
+background:#8d8741;color:#fff}.btn:hover{color:#e27d60}
+.btn-lg:active{color:#fbeec1}.btn-lg:focus{color:#daadd6}
+.col-lg-3 ul{font-family:'Courier Prime',monospace;font-size:1.5em;
+text-align:center;font-weight:bolder;color:#fff}
+.list-group-item{background-image:linear-gradient(to right,#f29492,#d39d38)}
+.list-group-item:hover{color:#8ee4af;transform:scale(1.1)}
+.list-group-item{transition:all .2s ease-in-out}
+.dropdown-toggle-split{margin-right:2px}
+p{font-family:'Courier Prime', monospace;font-size:12px;font-weight:700}
+.pad50{padding-top:50px}
+.button{display:inline-block;height:40px;line-height:40px;padding-right:20px;padding-left:60px;position:relative;background-color:#000;color:#fff;text-decoration:none;text-transform:none;letter-spacing:1px;margin-bottom:14px;text-shadow:1px 1px 0 rgba(0,0,0,.5)}
+.button:hover{text-decoration:none;color:#fff;text-shadow:none}
+.button p{font-size:12px}
+.button span{position:absolute;left:0;width:50px;font-size:30px;-webkit-border-top-left-radius:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-topleft:5px;-moz-border-radius-bottomleft:5px;border-top-left-radius:5px;border-bottom-left-radius:5px;border-right:1px solid rgba(0,0,0,.15);text-decoration:none}
+.button.twitter{background:#00acee}.button.facebook{background:#3b5998}
+.button.youtube{background:#c4302b}.button.apple{background:#cdcdcd}
+.button.instagram{background:#3f729b}.button.spotify{color:green}
+.button.spotify p{color:#fff}
+.text-center{text-align:center}
+.bg{background:-moz-linear-gradient(top,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%);background:-webkit-linear-gradient(top,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%);background:linear-gradient(to bottom,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%)}.btn-sm{font-size:12px}.footer{display:grid;grid-template-columns:repeat(12,1fr)}btn-sm{justify-content:start}.footer p{grid-column:13;justify-content:end}
+.comments{padding:100px;}
+.col-form-label{font-size:1.5em;font-family:'Courier Prime',monospace;color:white;}
+.form-heading{font-family:'Courier Prime',monospace;color:white;}

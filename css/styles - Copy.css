@@ -1,0 +1,163 @@
+
+/* Table of Content
+==================================================
+  #Global Styles
+  #Site Styles  
+==================================================*/
+
+/* Global Styles
+--------------------------------------------
+--------------------------------------------*/
+
+body {
+ background:#008080;
+}
+/* Site Styles
+--------------------------------------------
+--------------------------------------------*/
+.bg1 {
+	background:url(../images/pic.jpg);
+}
+.display-2 {
+        font-family:'Pacifico', cursive;
+        font-size:3em;
+}
+.dotted  {
+     border-width:6px;
+     border-style:dashed;
+}
+.info {
+	font-family:'Montserrat',sans-serif;
+	font-size: 1em;
+	justify-content:center;
+}
+.albums{
+	background-color:#659dbd;
+}
+.btn{
+	text-align: center;
+	letter-spacing: 4px;
+   font-family: 'Special Elite', cursive;
+   font-size: 1.5em;
+   background: #8d8741;
+   color:#ffffff;
+}
+.btn:hover {
+    color:#e27d60;
+}
+.btn-lg:active {
+	color:#fbeec1;
+}
+.btn-lg:focus {
+	color:#daadd6;
+}
+.col-lg-3 ul {
+	font-family: 'Dancing Script', cursive;
+	font-size:1em;
+	text-align:center;
+	font-weight:bolder;
+	color:#ffffff;
+}
+.list-group-item{
+	  background-image: linear-gradient(to right,#f29492,#d39d38);
+	}
+.list-group-item:hover {
+	color:#8ee4af;
+	transform: scale(1.1);/*Item grows on click*/
+}
+.list-group-item{ 
+transition: all .2s ease-in-out; 
+}
+.dropdown-toggle-split {
+	margin-right:2px;
+}
+/* Social Media Icons 
+--------------------------------------------
+--------------------------------------------*/
+p{
+  font-family: 'Rock Salt', sans-serif;
+  font-size: 12px;
+  font-weight:700;
+}
+.pad50{
+  padding-top:50px;
+}
+.button {
+display:inline-block;
+height:40px;
+line-height:40px;
+padding-right:20px;
+padding-left:60px;
+position: relative;
+background-color:rgb(0,0,0);
+color:rgb(255,255,255);
+text-decoration:none;
+text-transform:none;
+letter-spacing:1px;
+margin-bottom:14px;
+text-shadow:1px 1px 0px rgba(0,0,0,0.5);
+}
+.button:hover{
+text-decoration: none;
+color: #fff;
+text-shadow: none;
+}
+.button p{font-size:12px;}
+.button span {
+ position:absolute;
+ left: 0;
+ width: 50px;
+ font-size:30px;
+ -webkit-border-top-left-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+border-right: 1px solid  rgba(0,0,0,0.15);
+text-decoration: none;
+}
+.button.twitter {
+  background:#00acee;/*twitter icon*/
+}
+.button.facebook {
+ background:#3b5998;/*facebook icon*/
+}
+.button.youtube {
+ background:#c4302b;/*youtube icon*/
+}
+.button.apple{
+  background:#cdcdcd;/*apple music*/
+}
+.button.instagram{
+  background:#3f729b;/*instagram*/
+}
+.button.spotify{
+  color:green;/*spotify*/
+}
+.button.spotify p{
+  color:white;
+}
+.text-center{
+  text-align:center;
+}
+.bg{
+background: -moz-linear-gradient(top,#feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* FF3.6-15 */
+background:-webkit-linear-gradient(top,#feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); /* Chrome10-25,Safari5.1-6 */
+background:linear-gradient(to bottom,#feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feccb1',endColorstr='#fb955e',GradientType=0 ); /* IE6-9 */
+}
+.btn-sm{
+	font-size:12px;
+}
+.footer{
+	display: grid;
+	grid-template-columns: repeat(12,1fr);
+}
+ btn-sm{
+	justify-content:start;
+}
+.footer p{
+ grid-column:13;
+justify-content:end;
+}
