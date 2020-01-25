@@ -4,7 +4,7 @@ body{background:teal}
 .dotted{border-width:6px;border-style:dashed}
 .info{font-family:'Courier Prime',monospace;font-size:1em;justify-content:center}
 .albums{background-color:#659dbd}
-.btn{text-align:center;letter-spacing:4px;font-family:'Courier Prime',monospace;font-size:1.5em;background:#8d8741;color:#fff}
+.btn{text-align:center;letter-spacing:2px;font-family:'Courier Prime',monospace;font-size:1.5em;background:#8d8741;color:#fff}
 .btn:hover{color:#e27d60}
 .btn-lg:active{color:#fbeec1}
 .btn-lg:focus{color:#daadd6}
