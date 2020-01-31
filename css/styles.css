@@ -1,8 +1,9 @@
-body{background:teal}
+body{background:#008080;}
 .bg1{background:url(../images/pic.jpg)}
 .display-2{font-family:'Courier Prime',monospace;font-size:3em}
 .dotted{border-width:6px;border-style:dashed}
 .info{font-family:'Courier Prime',monospace;font-size:1em;justify-content:center}
+h1{font-size:22px;}
 .albums{background-color:#659dbd}
 .btn{text-align:center;letter-spacing:2px;font-family:'Courier Prime',monospace;font-size:1.5em;background:#8d8741;color:#fff}
 .btn:hover{color:#e27d60}
@@ -24,17 +25,18 @@ p{font-family:'Courier Prime',monospace;font-size:12px;font-weight:700}
 .button.youtube{background:#c4302b}
 .button.apple{background:#cdcdcd}
 .button.instagram{background:#3f729b}
-.button.spotify{color:green}
+.button.spotify{color:#008000;}
 .button.spotify p{color:#fff}
 .text-center{text-align:center}
 .bg{background:-moz-linear-gradient(top,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%);background:-webkit-linear-gradient(top,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%);background:linear-gradient(to bottom,#feccb1 0,#f17432 50%,#ea5507 51%,#fb955e 100%)}
 .btn-sm{font-size:12px}
+.news{font-size:22px;}
 .footer{display:grid;grid-template-columns:repeat(12,1fr)}
-btn-sm{justify-content:start}
 .footer p{grid-column:13;justify-content:end}
 .comments{padding:100px}
 .col-form-label{font-size:1.5em;font-family:'Courier Prime',monospace;color:#fff}
 .form-heading{font-family:'Courier Prime',monospace;color:#fff}
+.form-check-label{color:#fff;}
 .sources{display:grid;grid-template-rows:repeat(4,1fr);font-family:'Courier Prime',monospace;font-size:20px;text-align:center;color:#fff}
 .sources a{color:#fff}
 a:hover{color:#8ee4af;transform:scale(1.1)}
